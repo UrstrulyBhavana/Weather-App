@@ -1,10 +1,17 @@
     Features:-
-    
-Real-Time Weather Updates:- Get accurate and up-to-date weather details for any city around the globe.
+  
+🌎 Global Coverage:-  Search for weather updates in any city worldwide. 
 
-City-Based Search:- Users can input the name of any city to view its weather details.
+🌤️ Real-Time Weather Updates:- Displays temperature, humidity, and wind speed in an instant.
 
-Error Handling:- Displays an error message if the city name entered is invalid or not found.
+🌦️ Dynamic Weather Icons:- Weather conditions (e.g., Clouds, Clear, Rain, drizzle, mist, snow) are represented visually.
+
+❌ Error Handling:- Displays a friendly error message if an invalid city name is entered.
+
+📱 Responsive Design:- Fully optimized for both desktop and mobile viewing.
+
+🎨 Modern UI:- A clean and visually appealing card-based layout.
+
 
 Weather Icon Integration:- Dynamic weather icons are displayed based on the current weather conditions (e.g., Clouds, Rain, Mist).
 
