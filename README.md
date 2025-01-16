@@ -1,4 +1,6 @@
-    Features:-
+# Weather-App
+    
+## Features:-
   
 🌎 Global Coverage:-  Search for weather updates in any city worldwide. 
 
@@ -15,7 +17,8 @@
 
 Weather Icon Integration:- Dynamic weather icons are displayed based on the current weather conditions (e.g., Clouds, Rain, Mist).
 
-    Detailed Weather Information:-
+
+### Detailed Weather Information:-
 
 Temperature in Celsius.
 
@@ -29,7 +32,7 @@ Stylish UI:- The modern gradient card design and neatly organized layout enhance
 
 Lightweight & Fast:- The application is built using vanilla JavaScript, HTML, and CSS, ensuring quick loading times.
 
-    Tech Stack
+### Tech Stack
 Frontend:-
 
 HTML5
