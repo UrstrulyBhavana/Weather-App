@@ -15,10 +15,8 @@
 🎨 Modern UI:- A clean and visually appealing card-based layout.
 
 
-Weather Icon Integration:- Dynamic weather icons are displayed based on the current weather conditions (e.g., Clouds, Rain, Mist).
 
-
-### Detailed Weather Information:-
+## Detailed Weather Information:-
 
 Temperature in Celsius.
 
@@ -32,8 +30,7 @@ Stylish UI:- The modern gradient card design and neatly organized layout enhance
 
 Lightweight & Fast:- The application is built using vanilla JavaScript, HTML, and CSS, ensuring quick loading times.
 
-### Tech Stack
-Frontend:-
+## Tech Stack - Frontend:-
 
 HTML5
 
@@ -42,6 +39,7 @@ CSS3 (including responsive design and modern styles)
 JavaScript (for API calls and DOM manipulation)
 
 API Integration:- OpenWeatherMap API
+
 
 ![Weather-app-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f62f7187-efca-4d83-8cce-88b7037d5e3f)
 
