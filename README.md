@@ -1,4 +1,9 @@
 # Weather-App
+
+## 📽️ Demo
+
+![Weather-app-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f62f7187-efca-4d83-8cce-88b7037d5e3f)
+
     
 ## Features:-
   
@@ -13,7 +18,6 @@
 📱 Responsive Design:- Fully optimized for both desktop and mobile viewing.
 
 🎨 Modern UI:- A clean and visually appealing card-based layout.
-
 
 
 ## Detailed Weather Information:-
@@ -40,6 +44,13 @@ JavaScript (for API calls and DOM manipulation)
 
 API Integration:- OpenWeatherMap API
 
+---
 
-![Weather-app-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/f62f7187-efca-4d83-8cce-88b7037d5e3f)
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
+
+GitHub | urstrulybhavana1432@gmail.com
+
+---
+
 
