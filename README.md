@@ -75,7 +75,7 @@ Open index.html in your browser.
 
 ---
 
-## 🔧 Functionalities Recap
+## 🧩 Functionalities Recap
 
 1. User enters a city name.
 2. App fetches current weather data from OpenWeatherMap API.
